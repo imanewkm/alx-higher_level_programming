@@ -5,3 +5,4 @@ if (args && args[0] !== undefined) {
 } else {
   console.log('No argument');
 }
+hello
