@@ -1,1 +1,2 @@
 readme
+JavaScript warm up
